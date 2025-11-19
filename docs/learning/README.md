@@ -464,6 +464,14 @@ All learning materials are in `docs/learning/`:
 - **[CODE_TOURS.md](./CODE_TOURS.md)** - Guided code walkthroughs
 - **[FIRST_CONTRIBUTIONS.md](./FIRST_CONTRIBUTIONS.md)** - Your first PR
 
+### Professional Development
+- **[TESTING_GUIDE.md](./TESTING_GUIDE.md)** - Testing with pytest, fixtures, mocking
+- **[DEBUGGING_GUIDE.md](./DEBUGGING_GUIDE.md)** - Python debugging, profiling, troubleshooting
+- **[SECURITY_GUIDE.md](./SECURITY_GUIDE.md)** - Security best practices and vulnerabilities
+- **[API_DOCUMENTATION.md](./API_DOCUMENTATION.md)** - REST API and internal Python APIs
+- **[DEVELOPMENT_WORKFLOW.md](./DEVELOPMENT_WORKFLOW.md)** - Git workflow, code review, CI/CD
+- **[INTEGRATION_GUIDE.md](./INTEGRATION_GUIDE.md)** - Third-party integrations and plugins
+
 ---
 
 ## 🚀 **Ready to Dive In?**
